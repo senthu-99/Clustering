@@ -4,6 +4,7 @@ Analysis of Hiearchical vs K-Means Clustering on Seeds Dataset
 
 Dataset
 seeds_dataset.csv - Contains the data related to various seed features.
+
 seeds_real.csv - Contains the correct clustering assignments for the seeds dataset.
 
 Objectives:
