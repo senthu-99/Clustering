@@ -1,14 +1,4 @@
 
-# ASSESSED EXERCISE:
-# Using the Weighted Kappa function, WK_R.r, in blackboard, explore how the hierarchical clustering compares to k means for the seeds dataset "seeds_dataset.csv" given the correct clusters in "seeds_real.csv".
-# You need to:
-# • Calculate the WK for K means clustering with different values of K when compared to the correct clusters
-# • Also compare Hierarchical to the correct clusters with different linkage measures: single, complete and average
-# • Use scatterplots to illustrate the different clustering assignments.
-# • Plot the dendrograms where necessary.
-# • Plot the different Weighted Kappa values on an appropriate graph.
-
-
 # Load datasets in
 mydata = read.csv('C:/Users/senth/Documents/RDatasets/seeds_dataset.csv', sep=",")
 seeds_real = read.csv('C:/Users/senth/Documents/RDatasets/seeds_real.csv', sep=",")
